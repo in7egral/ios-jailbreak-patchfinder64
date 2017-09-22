@@ -13,7 +13,7 @@
 #include "patchfinder64.h"
 
 #define DEBUG_EXTENDED 0
-#define DEBGU_ENABLED 1
+#define DEBUG_ENABLED 1
 
 #if DEBUG_EXTENDED
 #   define PFExtLog(...) printf(__VA_ARGS__)
@@ -21,7 +21,7 @@
 #   define PFExtLog(x, ...)
 #endif
 
-#if DEBGU_ENABLED
+#if DEBUG_ENABLED
 #   define PFLog(...) printf(__VA_ARGS__)
 #else
 #   define PFLog(x, ...)

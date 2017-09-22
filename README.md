@@ -8,5 +8,7 @@ Some 'bad' patches can harm your system!__
 Released __'as is'__ without any support or warranty. 90% rewritten by in7egral from scratch, but contains code by PanguTeam
 and @qwertyoruiopz (Luca Todesco)
 
+__PatchfinderTester__ - console project for patchfinder testing automation.
+
 Copyright © 2016 - 2017, __FriedAppleTeam, PanguTeam, Luca Todesco__ (@kpwn on github, @qwertyoruiopz on twitter)
 
